@@ -1,4 +1,4 @@
-# Ethereum Public Key to Private Key Brute Force Application
+# Ethereum Public Key to Private Key Brute Force Javascript Application
 
 This application is a demonstration of brute-forcing the private key corresponding to a given public key x-coordinate on the SECP256K1 elliptic curve. This application is for educational purposes only and should not be used for any malicious activities.
 
