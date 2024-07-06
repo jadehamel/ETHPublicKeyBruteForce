@@ -24,7 +24,7 @@ This application is a demonstration of brute-forcing the private key correspondi
 
 ## Setup and Usage
 
-1. Clone the repository or download the HTML file.
+1. Clone the repository or download the files.
 
 2. Open the HTML file in a web browser.
 
