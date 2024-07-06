@@ -119,6 +119,7 @@ function stopBruteForce() {
 function toggleInputFields(disabled) {
   document.getElementById("minRangeInput").disabled = disabled;
   document.getElementById("maxRangeInput").disabled = disabled;
+  document.getElementById("publicKeyInput").disabled = disabled;
 }
 
 window.onload = function() {
