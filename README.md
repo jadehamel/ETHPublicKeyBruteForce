@@ -1,4 +1,4 @@
-# Ethereum Public Key to Private Key Brute Force Javascript Application
+# Ethereum Public Key to Private Key Brute Force Javascript or Quantum Computing Application
 
 [DEMO](https://ethbruteforce.jadehamel.fr/)
 
