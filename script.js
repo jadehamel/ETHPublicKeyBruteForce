@@ -42,7 +42,7 @@ function updateProgress(privateKey, maxRange) {
   const progressPercentage = document.getElementById("progressPercentage");
   const percentage = (Number(privateKey) / Number(maxRange)) * 100;
   progressBar.style.width = percentage + "%";
-  progressPercentage.textContent = percentage.toFixed(25) + "%";
+  progressPercentage.textContent = percentage.toFixed(40) + "%";
 }
 
 function logAttempt(message) {
