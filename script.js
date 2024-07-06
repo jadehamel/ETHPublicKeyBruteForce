@@ -122,6 +122,7 @@ function toggleInputFields(disabled) {
 }
 
 window.onload = function() {
+  document.getElementById("publicKeyInput").value = "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf";
   document.getElementById("minRangeInput").value = "1";
   document.getElementById("maxRangeInput").value = "100000000000";
   document.getElementById("privateKeyOutput").disabled = true;
