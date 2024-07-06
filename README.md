@@ -64,6 +64,18 @@ When you click the "Brute Force" button, the application will start attempting p
 
 - The min range and max range fields are enabled when the brute force process is stopped and disabled when the brute force process is running.
 
+# Quantum Brute Force Elliptic Curve Key Finder
+
+- Run the python file "QuantumBruteForce.py"
+
+This project demonstrates how to perform elliptic curve point multiplication and a brute-force search using quantum computing principles with Qiskit. It targets a specific elliptic curve (secp256k1) commonly used in cryptographic applications.
+
+## Requirements
+
+- Python 3.8+
+- Qiskit
+- NumPy
+
 ## Disclaimer
 
 This application is intended for educational purposes only. Unauthorized use of this software to brute force private keys from public keys without permission is illegal and unethical. The author of this application is not responsible for any misuse of the code.
